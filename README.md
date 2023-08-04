@@ -7,9 +7,12 @@
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/juan-carlos-merino/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="url-de-linkedin" height="30" width="40"/>
-  </a>
+    <a href="https://www.linkedin.com/in/juan-carlos-merino/" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="url-de-linkedin" height="30" width="40"/>
+    </a>
+    <a href="https://www.linkedin.com/in/juan-carlos-merino/" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="url-de-linkedin" height="30" width="40"/>
+    </a>
 </p>
 
 <h3 align="center">Languages and Tools</h3>
@@ -39,9 +42,10 @@
         <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="javascript icon" width="40" height="40" margin-right="3px"/> 
     </a> 
 </p>
+
 <h3 align="center">GitHub Statistics</h3>
 <p align="center">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jucame&show_icons=true&locale=en&theme=tokyonight&langs_count=3" alt="Jucame"/><br>
-     <img src="https://github-readme-stats.vercel.app/api?username=Jucame&show_icons=true&locale=en&theme=tokyonight" alt="Jucame"/><br>
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jucame&theme=dark" alt="Jucame"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jucame&show_icons=true&locale=en&theme=tokyonight&langs_count=3" alt="Jucame"/><br>
+    <img src="https://github-readme-stats.vercel.app/api?username=Jucame&show_icons=true&locale=en&theme=tokyonight" alt="Jucame"/><br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jucame&theme=dark" alt="Jucame"/>
 </p>
