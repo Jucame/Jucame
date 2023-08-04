@@ -1,19 +1,19 @@
-### Hi there 👋 I'm Juan Carlos Merino 👨‍💻🚀
+<h2 align="center">Hi there 👋 I'm Juan Carlos Merino 👨‍💻🚀</h2>
 
 - Political Scientist - 🌍 IIRR & 📈 IPE
 - 🔭 I’m currently working as Technical Research Assistant at PUC Chile
 - 🌱 I’m currently learning Java Fullstack and Spring Framework 🍃
 - 📫 How to reach me: jcmerinobecerra@outlook.com
 
-### Connect with me
-<p>
+<h3 align="center">Connect with me</h3>
+<p align="center">
   <a href="https://www.linkedin.com/in/juan-carlos-merino/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="url-de-linkedin" height="30" width="40"/>
   </a>
 </p>
 
-### Languages and Tools
-<p> 
+<h3 align="center">Languages and Tools</h3>
+<p align="center"> 
     <a href="https://www.python.org/" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python icon" width="50" height="40" margin-right="3px"/>
     </a>
@@ -38,4 +38,10 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
         <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="javascript icon" width="40" height="40" margin-right="3px"/> 
     </a> 
+</p>
+<h3 align="center">GitHub Statistics</h3>
+<p align="center">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jucame&show_icons=true&locale=en&theme=tokyonight&langs_count=3" alt="Jucame"/><br>
+     <img src="https://github-readme-stats.vercel.app/api?username=Jucame&show_icons=true&locale=en&theme=tokyonight" alt="Jucame"/><br>
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jucame&theme=dark" alt="Jucame"/>
 </p>
