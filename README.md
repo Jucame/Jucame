@@ -2,7 +2,7 @@
 
 - Political Scientist - 🌍 IIRR & 📈 IPE
 - 🌱 I’m currently learning Java Fullstack and Spring Framework 🍃
-- 📫 How to reach me: jcmerinobecerra@outlook.com
+- 📫 How to reach me: jcmerinobecerra@gmail.com
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
