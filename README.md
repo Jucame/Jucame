@@ -1,7 +1,6 @@
 <h2 align="center">Hi there 👋 I'm Juan Carlos Merino 👨‍💻🚀</h2>
 
 - Political Scientist - 🌍 IIRR & 📈 IPE
-- 🔭 I’m currently working as Technical Research Assistant at PUC Chile
 - 🌱 I’m currently learning Java Fullstack and Spring Framework 🍃
 - 📫 How to reach me: jcmerinobecerra@outlook.com
 
