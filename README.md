@@ -85,6 +85,5 @@
 
 <h3 align="center">GitHub Statistics</h3>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jucame&show_icons=true&locale=en&theme=tokyonight&langs_count=3" alt="Jucame"/><br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jucame&theme=dark" alt="Jucame"/>
 </p>
