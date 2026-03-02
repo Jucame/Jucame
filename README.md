@@ -1,6 +1,6 @@
 <h2 align="center">Hi there 👋 I'm Juan Carlos Merino 👨‍💻🚀</h2>
 
-- Political Scientist - 🌍 IIRR & 📈 IPE
+- Developer & Political Scientist - 🌍 IIRR & 📈 IPE
 - 🌱 I’m currently coding in Java and Python.
 - 📫 How to reach me: jcmerinobecerra@gmail.com
 
