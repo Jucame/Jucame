@@ -4,12 +4,6 @@
 - 🌱 I'm currently coding in Java and Python.
 - 📫 How to reach me: jcmerinobecerra@gmail.com
 
-<h3 align="center">Connect with me</h3>
-<p align="center">
-    <br>
-    (En construcción)
-</p>
-
 <h3 align="center">Languages and Tools</h3>
 
 <h4 align="center">Languages</h4>
