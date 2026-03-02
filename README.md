@@ -17,6 +17,7 @@
     <a href="https://www.python.org/" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python icon" width="50" height="40"/>
     </a>
+    &nbsp;&nbsp;
     <a href="https://www.java.com/" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java icon" width="50" height="40"/>
     </a>
